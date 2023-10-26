@@ -1,0 +1,8 @@
+Web scraping is a common practice that can be used to extract data from websites. However, some websites use hCaptcha to prevent automated scraping. hCaptcha is a type of CAPTCHA that requires users to solve a challenge to prove they are human. It is designed to be more user-friendly than traditional CAPTCHAs, 
+but it can still be a challenge for automated scraping.
+
+There are several ways to bypass hCaptcha while scraping. One way is to use a CAPTCHA solving service like 2Captcha1. Another option is to use a browser extension like AnyCaptchaCallbackHooker2.
+You can also try rotating IP addresses and User Agents3. However, these methods may not always work, and they may violate the website’s terms of service.
+
+As a project coordinator, you should consider the legal and ethical implications of web scraping. Some websites prohibit scraping in their terms of service, and scraping can also violate copyright laws.
+If you decide to proceed with web scraping, you should ensure that you have the necessary permissions and that you are not violating any laws or regulations.
