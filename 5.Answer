@@ -1,0 +1,9 @@
+LinkedIn provides APIs for developers to interact with LinkedIn Messaging.
+You can use the LinkedIn Messaging API to send messages to other LinkedIn users. The API allows you to send messages to existing connections and invite new connections. 
+
+There are also third-party APIs available that allow you to interact with LinkedIn Messaging. 
+For example, the linkedin-messaging-api is an unofficial API that allows you to interact with LinkedIn Messaging using Python. 
+
+Please note that LinkedIn has strict policies regarding the use of its APIs, and you must comply with these policies when using the APIs. 
+You should also ensure that you have the necessary permissions before sending messages to other LinkedIn users.
+
