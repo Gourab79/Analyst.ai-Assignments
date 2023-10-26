@@ -1,0 +1,17 @@
+To identify companies whose tech stack is built on Python, you can use tools like **Derrick**¹ or **PhantomBuster**². These tools allow you to input a list of company names and extract the corresponding LinkedIn URLs. 
+
+Alternatively, you can manually search for the company pages on LinkedIn. To do this, follow these steps:
+
+1. Type the company name into the search bar at the top of your LinkedIn homepage.
+2. Click on "Companies" at the top of the search results page.
+3. If needed, click on "Locations", "Industry", or "Company size" to filter the results for a company.
+4. Select the correct organization name in the results list.
+
+To give you some examples of companies that use Python in their tech stack, here are five well-known companies:
+
+1. Google: Google uses Python for various purposes such as web development, machine learning, and data analysis¹.
+2. Facebook: Facebook uses Python for its backend infrastructure and data analysis³.
+3. Netflix: Netflix uses Python for its data analysis and machine learning needs².
+4. Quora: Quora uses Python for its backend infrastructure and machine learning³.
+5. Amazon: Amazon uses Python for its cloud computing services and data analysis³.
+
